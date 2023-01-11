@@ -1,0 +1,26 @@
+        [
+             {
+    "firstName": "sign",
+    "lastName": "disaster",
+    "age": 1,
+    "visits": 58,
+    "status": "relationship",
+    "progress": 19
+  },
+  {
+    "firstName": "permission",
+    "lastName": "destruction",
+    "age": 0,
+    "visits": 86,
+    "status": "complicated",
+    "progress": 47
+  },
+   {
+    "firstName": "rub",
+    "lastName": "copy",
+    "age": 27,
+    "visits": 13,
+    "status": "single",
+    "progress": 60
+  }
+        ]

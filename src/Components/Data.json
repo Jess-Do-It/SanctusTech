@@ -6,7 +6,7 @@
 	    "tenantCD":"G",
 	    "configType":"C",
 	    "configCD":"Fraud Note",
-	    "configCDDesc":"Spoke with customer and confrimed fraud",
+	    "configCDDesc":"Sjhbajkbhkajhaeru",
 	    "action":"Update",
 	    "effectiveTS":"2022-01-31T10:00:00.000Z",
 	    "expirationTS": "9999-12-31T23:59:59.999Z"   
@@ -18,7 +18,7 @@
 	    "tenantCD":"G",
 	    "configType":"C",
 	    "configCD":"Fraud Note",
-	    "configCDDesc":"Spoke with customer and confrimed fraud",
+	    "configCDDesc":"Spoke to your mom",
 	    "action":"Update",
 	    "effectiveTS":"2022-01-31T10:00:00.000Z",
 	    "expirationTS": "9999-12-31T23:59:59.999Z"   
@@ -30,7 +30,7 @@
 	    "tenantCD":"G",
 	    "configType":"C",
 	    "configCD":"Fraud Note",
-	    "configCDDesc":"Spoke with customer and confrimed fraud",
+	    "configCDDesc":"Customer commits tax fraud on a daily basis",
 	    "action":"Update",
 	    "effectiveTS":"2022-01-31T10:00:00.000Z",
 	    "expirationTS": "9999-12-31T23:59:59.999Z"   
@@ -42,7 +42,7 @@
 	    "tenantCD":"G",
 	    "configType":"C",
 	    "configCD":"Fraud Note",
-	    "configCDDesc":"Spoke with customer and confrimed fraud",
+	    "configCDDesc":"Customer is smol",
 	    "action":"Update",
 	    "effectiveTS":"2022-01-31T10:00:00.000Z",
 	    "expirationTS": "9999-12-31T23:59:59.999Z"   
@@ -54,7 +54,7 @@
 	    "tenantCD":"G",
 	    "configType":"C",
 	    "configCD":"Fraud Note",
-	    "configCDDesc":"Spoke with customer and confrimed fraud",
+	    "configCDDesc":"The phone was running away",
 	    "action":"Update",
 	    "effectiveTS":"2022-01-31T10:00:00.000Z",
 	    "expirationTS": "9999-12-31T23:59:59.999Z"   
@@ -65,205 +65,7 @@
 	    "tenantCD":"G",
 	    "configType":"C",
 	    "configCD":"Fraud Note",
-	    "configCDDesc":"Spoke with customer and confrimed fraud",
-	    "action":"Update",
-	    "effectiveTS":"2022-01-31T10:00:00.000Z",
-	    "expirationTS": "9999-12-31T23:59:59.999Z"   
-	},{
-        "userID":"user1",
-        "Pword": 456,
-        "eventType":"config_updates_v0.1",
-	    "tenantCD":"G",
-	    "configType":"C",
-	    "configCD":"Fraud Note",
-	    "configCDDesc":"Spoke with customer and confrimed fraud",
-	    "action":"Update",
-	    "effectiveTS":"2022-01-31T10:00:00.000Z",
-	    "expirationTS": "9999-12-31T23:59:59.999Z"   
-	},{
-        "userID":"user1",
-        "Pword": 456,
-        "eventType":"config_updates_v0.1",
-	    "tenantCD":"G",
-	    "configType":"C",
-	    "configCD":"Fraud Note",
-	    "configCDDesc":"Spoke with customer and confrimed fraud",
-	    "action":"Update",
-	    "effectiveTS":"2022-01-31T10:00:00.000Z",
-	    "expirationTS": "9999-12-31T23:59:59.999Z"   
-	},{
-        "userID":"user1",
-        "Pword": 456,
-        "eventType":"config_updates_v0.1",
-	    "tenantCD":"G",
-	    "configType":"C",
-	    "configCD":"Fraud Note",
-	    "configCDDesc":"Spoke with customer and confrimed fraud",
-	    "action":"Update",
-	    "effectiveTS":"2022-01-31T10:00:00.000Z",
-	    "expirationTS": "9999-12-31T23:59:59.999Z"   
-	},{
-        "userID":"user1",
-        "Pword": 456,
-        "eventType":"config_updates_v0.1",
-	    "tenantCD":"G",
-	    "configType":"C",
-	    "configCD":"Fraud Note",
-	    "configCDDesc":"Spoke with customer and confrimed fraud",
-	    "action":"Update",
-	    "effectiveTS":"2022-01-31T10:00:00.000Z",
-	    "expirationTS": "9999-12-31T23:59:59.999Z"   
-	},{
-        "userID":"user1",
-        "Pword": 456,
-        "eventType":"config_updates_v0.1",
-	    "tenantCD":"G",
-	    "configType":"C",
-	    "configCD":"Fraud Note",
-	    "configCDDesc":"Spoke with customer and confrimed fraud",
-	    "action":"Update",
-	    "effectiveTS":"2022-01-31T10:00:00.000Z",
-	    "expirationTS": "9999-12-31T23:59:59.999Z"   
-	},{
-        "userID":"user1",
-        "Pword": 456,
-        "eventType":"config_updates_v0.1",
-	    "tenantCD":"G",
-	    "configType":"C",
-	    "configCD":"Fraud Note",
-	    "configCDDesc":"Spoke with customer and confrimed fraud",
-	    "action":"Update",
-	    "effectiveTS":"2022-01-31T10:00:00.000Z",
-	    "expirationTS": "9999-12-31T23:59:59.999Z"   
-	},{
-        "userID":"user1",
-        "Pword": 456,
-        "eventType":"config_updates_v0.1",
-	    "tenantCD":"G",
-	    "configType":"C",
-	    "configCD":"Fraud Note",
-	    "configCDDesc":"Spoke with customer and confrimed fraud",
-	    "action":"Update",
-	    "effectiveTS":"2022-01-31T10:00:00.000Z",
-	    "expirationTS": "9999-12-31T23:59:59.999Z"   
-	},{
-        "userID":"user1",
-        "Pword": 456,
-        "eventType":"config_updates_v0.1",
-	    "tenantCD":"G",
-	    "configType":"C",
-	    "configCD":"Fraud Note",
-	    "configCDDesc":"Spoke with customer and confrimed fraud",
-	    "action":"Update",
-	    "effectiveTS":"2022-01-31T10:00:00.000Z",
-	    "expirationTS": "9999-12-31T23:59:59.999Z"   
-	},{
-        "userID":"user1",
-        "Pword": 456,
-        "eventType":"config_updates_v0.1",
-	    "tenantCD":"G",
-	    "configType":"C",
-	    "configCD":"Fraud Note",
-	    "configCDDesc":"Spoke with customer and confrimed fraud",
-	    "action":"Update",
-	    "effectiveTS":"2022-01-31T10:00:00.000Z",
-	    "expirationTS": "9999-12-31T23:59:59.999Z"   
-	},{
-        "userID":"user1",
-        "Pword": 456,
-        "eventType":"config_updates_v0.1",
-	    "tenantCD":"G",
-	    "configType":"C",
-	    "configCD":"Fraud Note",
-	    "configCDDesc":"Spoke with customer and confrimed fraud",
-	    "action":"Update",
-	    "effectiveTS":"2022-01-31T10:00:00.000Z",
-	    "expirationTS": "9999-12-31T23:59:59.999Z"   
-	},{
-        "userID":"user1",
-        "Pword": 456,
-        "eventType":"config_updates_v0.1",
-	    "tenantCD":"G",
-	    "configType":"C",
-	    "configCD":"Fraud Note",
-	    "configCDDesc":"Spoke with customer and confrimed fraud",
-	    "action":"Update",
-	    "effectiveTS":"2022-01-31T10:00:00.000Z",
-	    "expirationTS": "9999-12-31T23:59:59.999Z"   
-	},{
-        "userID":"user1",
-        "Pword": 456,
-        "eventType":"config_updates_v0.1",
-	    "tenantCD":"G",
-	    "configType":"C",
-	    "configCD":"Fraud Note",
-	    "configCDDesc":"Spoke with customer and confrimed fraud",
-	    "action":"Update",
-	    "effectiveTS":"2022-01-31T10:00:00.000Z",
-	    "expirationTS": "9999-12-31T23:59:59.999Z"   
-	},{
-        "userID":"user1",
-        "Pword": 456,
-        "eventType":"config_updates_v0.1",
-	    "tenantCD":"G",
-	    "configType":"C",
-	    "configCD":"Fraud Note",
-	    "configCDDesc":"Spoke with customer and confrimed fraud",
-	    "action":"Update",
-	    "effectiveTS":"2022-01-31T10:00:00.000Z",
-	    "expirationTS": "9999-12-31T23:59:59.999Z"   
-	},{
-        "userID":"user1",
-        "Pword": 456,
-        "eventType":"config_updates_v0.1",
-	    "tenantCD":"G",
-	    "configType":"C",
-	    "configCD":"Fraud Note",
-	    "configCDDesc":"Spoke with customer and confrimed fraud",
-	    "action":"Update",
-	    "effectiveTS":"2022-01-31T10:00:00.000Z",
-	    "expirationTS": "9999-12-31T23:59:59.999Z"   
-	},{
-        "userID":"user1",
-        "Pword": 456,
-        "eventType":"config_updates_v0.1",
-	    "tenantCD":"G",
-	    "configType":"C",
-	    "configCD":"Fraud Note",
-	    "configCDDesc":"Spoke with customer and confrimed fraud",
-	    "action":"Update",
-	    "effectiveTS":"2022-01-31T10:00:00.000Z",
-	    "expirationTS": "9999-12-31T23:59:59.999Z"   
-	},{
-        "userID":"user1",
-        "Pword": 456,
-        "eventType":"config_updates_v0.1",
-	    "tenantCD":"G",
-	    "configType":"C",
-	    "configCD":"Fraud Note",
-	    "configCDDesc":"Spoke with customer and confrimed fraud",
-	    "action":"Update",
-	    "effectiveTS":"2022-01-31T10:00:00.000Z",
-	    "expirationTS": "9999-12-31T23:59:59.999Z"   
-	},{
-        "userID":"user1",
-        "Pword": 456,
-        "eventType":"config_updates_v0.1",
-	    "tenantCD":"G",
-	    "configType":"C",
-	    "configCD":"Fraud Note",
-	    "configCDDesc":"Spoke with customer and confrimed fraud",
-	    "action":"Update",
-	    "effectiveTS":"2022-01-31T10:00:00.000Z",
-	    "expirationTS": "9999-12-31T23:59:59.999Z"   
-	},{
-        "userID":"user1",
-        "Pword": 456,
-        "eventType":"config_updates_v0.1",
-	    "tenantCD":"G",
-	    "configType":"C",
-	    "configCD":"Fraud Note",
-	    "configCDDesc":"Spoke with customer and confrimed fraud",
+	    "configCDDesc":"lazzzyy",
 	    "action":"Update",
 	    "effectiveTS":"2022-01-31T10:00:00.000Z",
 	    "expirationTS": "9999-12-31T23:59:59.999Z"   
@@ -290,5 +92,304 @@
 	    "effectiveTS":"2022-01-31T10:00:00.000Z",
 	    "expirationTS": "9999-12-31T23:59:59.999Z"   
 	}
+,
+	{
+        "userID":"user1",
+        "Pword": 456,
+        "eventType":"config_updates_v0.1",
+	    "tenantCD":"G",
+	    "configType":"C",
+	    "configCD":"Fraud Note",
+	    "configCDDesc":"Spoke with customer and idk how to spell conformed",
+	    "action":"Update",
+	    "effectiveTS":"2022-01-31T10:00:00.000Z",
+	    "expirationTS": "9999-12-31T23:59:59.999Z"   
+	},
+	{
+        "userID":"user1",
+        "Pword": 456,
+        "eventType":"config_updates_v0.1",
+	    "tenantCD":"G",
+	    "configType":"C",
+	    "configCD":"Fraud Note",
+	    "configCDDesc":"Customer is smol",
+	    "action":"Update",
+	    "effectiveTS":"2022-01-31T10:00:00.000Z",
+	    "expirationTS": "9999-12-31T23:59:59.999Z"   
+	},
+	{
+        "userID":"user1",
+        "Pword": 456,
+        "eventType":"config_updates_v0.1",
+	    "tenantCD":"G",
+	    "configType":"C",
+	    "configCD":"Fraud Note",
+	    "configCDDesc":"The phone was running away",
+	    "action":"Update",
+	    "effectiveTS":"2022-01-31T10:00:00.000Z",
+	    "expirationTS": "9999-12-31T23:59:59.999Z"   
+	},{
+        "userID":"user1",
+        "Pword": 456,
+        "eventType":"config_updates_v0.1",
+	    "tenantCD":"G",
+	    "configType":"C",
+	    "configCD":"Fraud Note",
+	    "configCDDesc":"lazzzyy",
+	    "action":"Update",
+	    "effectiveTS":"2022-01-31T10:00:00.000Z",
+	    "expirationTS": "9999-12-31T23:59:59.999Z"   
+	},{
+        "userID":"user1",
+        "Pword": 456,
+        "eventType":"config_updates_v0.1",
+	    "tenantCD":"G",
+	    "configType":"C",
+	    "configCD":"Fraud Note",
+	    "configCDDesc":"Spoke with customer and confrimed fraud",
+	    "action":"Update",
+	    "effectiveTS":"2022-01-31T10:00:00.000Z",
+	    "expirationTS": "9999-12-31T23:59:59.999Z"   
+	},{
+        "userID":"user1",
+        "Pword": 456,
+        "eventType":"config_updates_v0.1",
+	    "tenantCD":"G",
+	    "configType":"C",
+	    "configCD":"Fraud Note",
+	    "configCDDesc":"Spoke with customer and confrimed fraud",
+	    "action":"Update",
+	    "effectiveTS":"2022-01-31T10:00:00.000Z",
+	    "expirationTS": "9999-12-31T23:59:59.999Z"   
+	}
+,{
+        "userID":"user1",
+        "Pword": 456,
+        "eventType":"config_updates_v0.1",
+	    "tenantCD":"G",
+	    "configType":"C",
+	    "configCD":"Fraud Note",
+	    "configCDDesc":"Customer is smol",
+	    "action":"Update",
+	    "effectiveTS":"2022-01-31T10:00:00.000Z",
+	    "expirationTS": "9999-12-31T23:59:59.999Z"   
+	},
+	{
+        "userID":"user1",
+        "Pword": 456,
+        "eventType":"config_updates_v0.1",
+	    "tenantCD":"G",
+	    "configType":"C",
+	    "configCD":"Fraud Note",
+	    "configCDDesc":"The phone was running away",
+	    "action":"Update",
+	    "effectiveTS":"2022-01-31T10:00:00.000Z",
+	    "expirationTS": "9999-12-31T23:59:59.999Z"   
+	},{
+        "userID":"user1",
+        "Pword": 456,
+        "eventType":"config_updates_v0.1",
+	    "tenantCD":"G",
+	    "configType":"C",
+	    "configCD":"Fraud Note",
+	    "configCDDesc":"lazzzyy",
+	    "action":"Update",
+	    "effectiveTS":"2022-01-31T10:00:00.000Z",
+	    "expirationTS": "9999-12-31T23:59:59.999Z"   
+	},{
+        "userID":"user1",
+        "Pword": 456,
+        "eventType":"config_updates_v0.1",
+	    "tenantCD":"G",
+	    "configType":"C",
+	    "configCD":"Fraud Note",
+	    "configCDDesc":"Spoke with customer and confrimed fraud",
+	    "action":"Update",
+	    "effectiveTS":"2022-01-31T10:00:00.000Z",
+	    "expirationTS": "9999-12-31T23:59:59.999Z"   
+	},{
+        "userID":"user1",
+        "Pword": 456,
+        "eventType":"config_updates_v0.1",
+	    "tenantCD":"G",
+	    "configType":"C",
+	    "configCD":"Fraud Note",
+	    "configCDDesc":"Spoke with customer and confrimed fraud",
+	    "action":"Update",
+	    "effectiveTS":"2022-01-31T10:00:00.000Z",
+	    "expirationTS": "9999-12-31T23:59:59.999Z"   
+	}
+,{
+        "userID":"user1",
+        "Pword": 456,
+        "eventType":"config_updates_v0.1",
+	    "tenantCD":"G",
+	    "configType":"C",
+	    "configCD":"Fraud Note",
+	    "configCDDesc":"Customer is smol",
+	    "action":"Update",
+	    "effectiveTS":"2022-01-31T10:00:00.000Z",
+	    "expirationTS": "9999-12-31T23:59:59.999Z"   
+	},
+	{
+        "userID":"user1",
+        "Pword": 456,
+        "eventType":"config_updates_v0.1",
+	    "tenantCD":"G",
+	    "configType":"C",
+	    "configCD":"Fraud Note",
+	    "configCDDesc":"The phone was running away",
+	    "action":"Update",
+	    "effectiveTS":"2022-01-31T10:00:00.000Z",
+	    "expirationTS": "9999-12-31T23:59:59.999Z"   
+	},{
+        "userID":"user1",
+        "Pword": 456,
+        "eventType":"config_updates_v0.1",
+	    "tenantCD":"G",
+	    "configType":"C",
+	    "configCD":"Fraud Note",
+	    "configCDDesc":"lazzzyy",
+	    "action":"Update",
+	    "effectiveTS":"2022-01-31T10:00:00.000Z",
+	    "expirationTS": "9999-12-31T23:59:59.999Z"   
+	},{
+        "userID":"user1",
+        "Pword": 456,
+        "eventType":"config_updates_v0.1",
+	    "tenantCD":"G",
+	    "configType":"C",
+	    "configCD":"Fraud Note",
+	    "configCDDesc":"Spoke with customer and confrimed fraud",
+	    "action":"Update",
+	    "effectiveTS":"2022-01-31T10:00:00.000Z",
+	    "expirationTS": "9999-12-31T23:59:59.999Z"   
+	},{
+        "userID":"user1",
+        "Pword": 456,
+        "eventType":"config_updates_v0.1",
+	    "tenantCD":"G",
+	    "configType":"C",
+	    "configCD":"Fraud Note",
+	    "configCDDesc":"Spoke with customer and confrimed fraud",
+	    "action":"Update",
+	    "effectiveTS":"2022-01-31T10:00:00.000Z",
+	    "expirationTS": "9999-12-31T23:59:59.999Z"   
+	}
+,{
+        "userID":"user1",
+        "Pword": 456,
+        "eventType":"config_updates_v0.1",
+	    "tenantCD":"G",
+	    "configType":"C",
+	    "configCD":"Fraud Note",
+	    "configCDDesc":"Customer is smol",
+	    "action":"Update",
+	    "effectiveTS":"2022-01-31T10:00:00.000Z",
+	    "expirationTS": "9999-12-31T23:59:59.999Z"   
+	},
+	{
+        "userID":"user1",
+        "Pword": 456,
+        "eventType":"config_updates_v0.1",
+	    "tenantCD":"G",
+	    "configType":"C",
+	    "configCD":"Fraud Note",
+	    "configCDDesc":"The phone was running away",
+	    "action":"Update",
+	    "effectiveTS":"2022-01-31T10:00:00.000Z",
+	    "expirationTS": "9999-12-31T23:59:59.999Z"   
+	},{
+        "userID":"user1",
+        "Pword": 456,
+        "eventType":"config_updates_v0.1",
+	    "tenantCD":"G",
+	    "configType":"C",
+	    "configCD":"Fraud Note",
+	    "configCDDesc":"lazzzyy",
+	    "action":"Update",
+	    "effectiveTS":"2022-01-31T10:00:00.000Z",
+	    "expirationTS": "9999-12-31T23:59:59.999Z"   
+	},{
+        "userID":"user1",
+        "Pword": 456,
+        "eventType":"config_updates_v0.1",
+	    "tenantCD":"G",
+	    "configType":"C",
+	    "configCD":"Fraud Note",
+	    "configCDDesc":"Spoke with customer and confrimed fraud",
+	    "action":"Update",
+	    "effectiveTS":"2022-01-31T10:00:00.000Z",
+	    "expirationTS": "9999-12-31T23:59:59.999Z"   
+	},{
+        "userID":"user1",
+        "Pword": 456,
+        "eventType":"config_updates_v0.1",
+	    "tenantCD":"G",
+	    "configType":"C",
+	    "configCD":"Fraud Note",
+	    "configCDDesc":"Spoke with customer and confrimed fraud",
+	    "action":"Update",
+	    "effectiveTS":"2022-01-31T10:00:00.000Z",
+	    "expirationTS": "9999-12-31T23:59:59.999Z"   
+	}
+,{
+        "userID":"user1",
+        "Pword": 456,
+        "eventType":"config_updates_v0.1",
+	    "tenantCD":"G",
+	    "configType":"C",
+	    "configCD":"Fraud Note",
+	    "configCDDesc":"Customer is smol",
+	    "action":"Update",
+	    "effectiveTS":"2022-01-31T10:00:00.000Z",
+	    "expirationTS": "9999-12-31T23:59:59.999Z"   
+	},
+	{
+        "userID":"user1",
+        "Pword": 456,
+        "eventType":"config_updates_v0.1",
+	    "tenantCD":"G",
+	    "configType":"C",
+	    "configCD":"Fraud Note",
+	    "configCDDesc":"The phone was running away",
+	    "action":"Update",
+	    "effectiveTS":"2022-01-31T10:00:00.000Z",
+	    "expirationTS": "9999-12-31T23:59:59.999Z"   
+	},{
+        "userID":"user1",
+        "Pword": 456,
+        "eventType":"config_updates_v0.1",
+	    "tenantCD":"G",
+	    "configType":"C",
+	    "configCD":"Fraud Note",
+	    "configCDDesc":"lazzzyy",
+	    "action":"Update",
+	    "effectiveTS":"2022-01-31T10:00:00.000Z",
+	    "expirationTS": "9999-12-31T23:59:59.999Z"   
+	},{
+        "userID":"user1",
+        "Pword": 456,
+        "eventType":"config_updates_v0.1",
+	    "tenantCD":"G",
+	    "configType":"C",
+	    "configCD":"Fraud Note",
+	    "configCDDesc":"Spoke with customer and confrimed fraud",
+	    "action":"Update",
+	    "effectiveTS":"2022-01-31T10:00:00.000Z",
+	    "expirationTS": "9999-12-31T23:59:59.999Z"   
+	},{
+        "userID":"user1",
+        "Pword": 456,
+        "eventType":"config_updates_v0.1",
+	    "tenantCD":"G",
+	    "configType":"C",
+	    "configCD":"Fraud Note",
+	    "configCDDesc":"Spoke with customer and confrimed fraud",
+	    "action":"Update",
+	    "effectiveTS":"2022-01-31T10:00:00.000Z",
+	    "expirationTS": "9999-12-31T23:59:59.999Z"   
+	}
+
 ]
  
